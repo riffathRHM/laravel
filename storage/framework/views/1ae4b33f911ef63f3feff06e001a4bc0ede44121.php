@@ -1,0 +1,1 @@
+I am in index page....<?php /**PATH C:\Users\E-Lab User\Desktop\HelloApp\resources\views/index.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+hello<?php /**PATH C:\Users\E-Lab Staff\Desktop\2019csc030\2019csc030\HelloApp\resources\views/unsuccess.blade.php ENDPATH**/ ?>
